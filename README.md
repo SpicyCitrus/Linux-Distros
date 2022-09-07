@@ -1,5 +1,3 @@
-# Linux-Distros
-This is a list of a bunch of linux distros that you can download 
 All distros are all on the desktop version 
 no paid versions of distros will be uploaded here
 no lite or distros for older pc's/laptops will be uploaded here
